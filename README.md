@@ -1,2 +1,3 @@
 # CaesarCipher-OOP
-Object-Oriented Implementation of Caesar Cipher
+
+Coursera - Java Programming: Arrays, Lists, and Structured Data Week 1: Programming Exercise
